@@ -9,7 +9,6 @@ Image: `A8SDA204.ROM`, 1 MiB.
 - Two BIOS setup profiles stored in flash NVRAM.
 - Save/load menu: **Exit → ASUS O.C. Profile**. Apply loaded settings with **Save & Exit**.
 - Standard **Load Setup Defaults** remains available.
-- POST version string includes `by sda2`.
 
 The main module uses AMI LH5 compression. Module and main BIOS checksums are valid for ASUS AFUDOS 1.19.
 
