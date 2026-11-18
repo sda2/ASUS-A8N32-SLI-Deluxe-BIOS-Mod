@@ -21,7 +21,9 @@ Hardware testing confirmed correct operation with all BIOS settings and successf
 
 ## Flashing
 
-Back up the existing chip contents before flashing. Copy the included `AFUDOS.EXE` (ASUS AFUDOS 1.19) and `A8SDA204.ROM` to the DOS drive, then run:
+Back up the existing chip contents before flashing.
+
+Copy the included `AFUDOS.EXE` (ASUS AFUDOS 1.19) and `A8SDA204.ROM` to the DOS drive, then run:
 
 ```text
 AFUDOS /iA8SDA204.ROM
