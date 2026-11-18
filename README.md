@@ -4,6 +4,9 @@ Modified AMIBIOS8 firmware for the **ASUS A8N32-SLI Deluxe**, based on ASUS BIOS
 
 Image: `A8SDA204.ROM`, 1 MiB.
 
+<img width="2200" height="1237" alt="grafik" src="https://github.com/user-attachments/assets/d6c90a54-1154-4fcc-8394-6006705f16af" />
+
+
 ## Features
 
 - Two BIOS setup profiles stored in flash NVRAM.
