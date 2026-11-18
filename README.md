@@ -1,6 +1,8 @@
 # ASUS A8N32-SLI Deluxe — BIOS 1409 O.C. Profile Mod
 
-Modified AMIBIOS8 firmware for the **ASUS A8N32-SLI Deluxe**, based on ASUS BIOS **1409**. Image: `A8SDA204.ROM`, 1 MiB.
+Modified AMIBIOS8 firmware for the **ASUS A8N32-SLI Deluxe**, based on ASUS BIOS **1409**.
+
+Image: `A8SDA204.ROM`, 1 MiB.
 
 ## Features
 
